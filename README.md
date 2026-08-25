@@ -85,20 +85,7 @@ The dashboard also explores:
 * KPI and target tracking
 * Dashboard containers and custom formatting
 
-## Project Files
 
-```text
-HR-Analytics-Tableau-Dashboard/
-│
-├── README.md
-├── HR-Dashboard.twbx
-│
-├── data/
-│   └── HR-Data.xlsx
-│
-└── images/
-    └── dashboard-preview.png
-```
 
 ### `HR-Dashboard.twbx`
 
